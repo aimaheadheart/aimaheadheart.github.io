@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2023-11-13T14:34:45-06:00</updated>
+  <updated>2023-11-13T15:22:12-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,54 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="https://aimaheadheart.github.io/posts/getting-started-new/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2023-11-13T15:00:00-06:00</published>
+  
+    <updated>2023-11-13T15:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/getting-started-new/</id>
+    <content src="https://aimaheadheart.github.io/posts/getting-started-new/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of the basic environment. Git also needs to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  GitHub Fork - Convenient for custom devel...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
