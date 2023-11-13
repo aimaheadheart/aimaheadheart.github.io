@@ -1,9 +1,8 @@
-name: Build and Deploy Jekyll site to GitHub Pages
+name: Jekyll site CI
 
 on:
   push:
-    branches:
-      - master
+    branches: [ master ]
 
 jobs:
   build:
@@ -11,16 +10,20 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.2'
-    - uses: actions/cache@v2
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Build the site
+      run: bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - name: Build and deploy
-      uses: helaili/jekyll-action@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
