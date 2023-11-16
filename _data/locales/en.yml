@@ -10,7 +10,12 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
+  home: AIM-AHEAD
+  people: People
+  publication: Publication
+  demo: Demo
+  activities: Activities
+  collaborations: Collaborations
   categories: Categories
   tags: Tags
   archives: Archives
