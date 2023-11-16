@@ -2,6 +2,8 @@
 layout: people
 title: Our Team
 permalink: /people/
+icon: fas fa-tags
+order: 2
 ---
 
 ## Principal Investigator(s):
@@ -20,7 +22,7 @@ permalink: /people/
         </div>
       </div>
     </div>
-    {% if forloop.index | modulo:3 == 0 %}
+    {% if forloop.index | modulo: 3 == 0 %}
       <div class="w-100"></div>
     {% endif %}
   {% endfor %}
@@ -42,7 +44,7 @@ permalink: /people/
         </div>
       </div>
     </div>
-    {% if forloop.index | modulo:3 == 0 %}
+    {% if forloop.index | modulo: 3 == 0 %}
       <div class="w-100"></div>
     {% endif %}
   {% endfor %}
