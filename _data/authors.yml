@@ -6,6 +6,16 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+heart:
+  name: aimaheadheart
+  twitter: h
+  url: https://github.com/aimaheadheart
+
+sirui:
+  name: Sirui Ding
+  twitter: sd
+  url: https://github.com/Davidsirui
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020

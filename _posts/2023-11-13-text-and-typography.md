@@ -1,10 +1,9 @@
 ---
 title: Text and Typography
 author: cotes
-date: 2019-08-08 11:33:00 +0800
+date: 2023-11-13 14:00:00 -0600
 categories: [Blogging, Demo]
 tags: [typography]
-pin: true
 math: true
 mermaid: true
 image:
