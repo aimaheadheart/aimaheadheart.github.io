@@ -28,7 +28,7 @@
             </div>
           </div>
         </div>
-        {% if forloop.index | modulo:3 == 0 %}
+        {% if forloop.index | modulo: 3 == 0 %}
           <div class="w-100"></div> <!-- 在每三个卡片后创建一个新的行 -->
         {% endif %}
       {% endfor %}
