@@ -1,0 +1,16 @@
+institutions:
+  - name: University of North Carolina at Charlotte (Research Institute)
+    image: /assets/img/institutions/UNC
+    url: https://www.charlotte.edu/
+  - name: Johnson C. Smith University (HBCU)
+    image: /assets/img/institutions/JCSU
+    url: https://www.jcsu.edu/
+  - name: Rice University (Research Institute)
+    image: /assets/img/institutions/RU
+    url: https://www.rice.edu/
+  - name: Texas A & M University (HSI)
+    image: /assets/img/institutions/TAMU
+    url: https://www.tamu.edu/index.html
+  - name: The University of Texas Health Science Center of Houston (Research Institute)
+    image: /assets/img/institutions/UTH
+    url: https://www.uth.edu/
