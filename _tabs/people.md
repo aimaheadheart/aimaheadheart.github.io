@@ -22,9 +22,6 @@ order: 2
         </div>
       </div>
     </div>
-    {% if forloop.index | modulo: 3 == 0 %}
-      <div class="w-100"></div>
-    {% endif %}
   {% endfor %}
 </div>
 
@@ -44,8 +41,5 @@ order: 2
         </div>
       </div>
     </div>
-    {% if forloop.index | modulo: 3 == 0 %}
-      <div class="w-100"></div>
-    {% endif %}
   {% endfor %}
 </div>
