@@ -2,7 +2,7 @@
 layout: default
 title: Our Team
 permalink: /people/
-icon: fas fa-tags
+icon: fas fa-person
 order: 2
 ---
 

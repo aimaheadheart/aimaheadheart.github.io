@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-tags
+icon: fas fa-newspaper
 order: 4
 ---
 
