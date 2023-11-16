@@ -19,6 +19,16 @@ const resource = [
   
     '/about/',
   
+    '/activities/',
+  
+    '/collaborations/',
+  
+    '/demo/',
+  
+    '/people/',
+  
+    '/publication/',
+  
 
   /* --- Favicons & compressed JS --- */
   
