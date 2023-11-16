@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: default
 title: Our Team
 permalink: /people/
 icon: fas fa-tags
