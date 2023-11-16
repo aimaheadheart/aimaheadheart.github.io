@@ -20,9 +20,5 @@ order: 5
         </div>
       </div>
     </div>
-    {% if forloop.index | modulo: 3 == 0 %}
-      </div> <!-- 结束上一行 -->
-      <div class="row"> <!-- 开始新的一行 -->
-    {% endif %}
   {% endfor %}
 </div>
