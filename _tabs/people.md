@@ -12,7 +12,7 @@ order: 2
   {% for person in site.data.people.principal_investigators %}
     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
       <div class="card h-100">
-        <img src="{{ person.image }}.jpeg" class="card-img-top" alt="{{ person.name }}">
+        <img src="{{ person.image }}.jpeg" class="card-img-top img-fluid" alt="{{ person.name }}">
         <div class="card-body">
           <h5 class="card-title">
             <a href="{{ person.url }}">{{ person.name }}</a>
@@ -31,7 +31,7 @@ order: 2
   {% for person in site.data.people.key_personnel %}
     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
       <div class="card h-100">
-        <img src="{{ person.image }}.jpeg" class="card-img-top" alt="{{ person.name }}">
+        <img src="{{ person.image }}.jpeg" class="card-img-top img-fluid" alt="{{ person.name }}">
         <div class="card-body">
           <h5 class="card-title">
             <a href="{{ person.url }}">{{ person.name }}</a>
