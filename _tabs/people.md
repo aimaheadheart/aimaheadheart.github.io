@@ -1,8 +1,49 @@
 ---
-# the default layout is 'page'
-icon: fas fa-tags
-order: 1
+layout: people
+title: Our Team
+permalink: /people/
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Principal Investigator(s):
+
+<div class="row">
+  {% for person in site.data.people.principal_investigators %}
+    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+      <div class="card h-100">
+        <img src="{{ person.image }}" class="card-img-top" alt="{{ person.name }}">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ person.url }}">{{ person.name }}</a>
+          </h5>
+          <p class="card-text">{{ person.title }}</p>
+          <p class="card-text">{{ person.institution }}</p>
+        </div>
+      </div>
+    </div>
+    {% if forloop.index | modulo:3 == 0 %}
+      <div class="w-100"></div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+## Key Personnel:
+
+<div class="row">
+  {% for person in site.data.people.key_personnel %}
+    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+      <div class="card h-100">
+        <img src="{{ person.image }}" class="card-img-top" alt="{{ person.name }}">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ person.url }}">{{ person.name }}</a>
+          </h5>
+          <p class="card-text">{{ person.title }}</p>
+          <p class="card-text">{{ person.institution }}</p>
+        </div>
+      </div>
+    </div>
+    {% if forloop.index | modulo:3 == 0 %}
+      <div class="w-100"></div>
+    {% endif %}
+  {% endfor %}
+</div>

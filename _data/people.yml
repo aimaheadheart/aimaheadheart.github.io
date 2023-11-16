@@ -1,0 +1,49 @@
+principal_investigators:
+  - name: Dr. Cheryl Brown (Contact PI)
+    image: /assets/img/people/CB
+    title: Associate Professor
+    institution: University of North Carolina at Charlotte
+    url: https://pages.charlotte.edu/cheryl-brown/
+  - name: Dr. Felesia Stukes
+    image: /assets/img/people/FS
+    title: Assistant Professor
+    institution: Johnson C. Smith University (HBCU)
+    url: https://blackcomputeher.org/felesia-stukes/
+  - name: Dr. Na Zou
+    image: /assets/img/people/NZ
+    title: Assistant Professor
+    institution: Texas A & M University (HSI)
+    url: https://engineering.tamu.edu/etid/profiles/zou-na.html
+  - name: Dr. Xia Hu
+    image: /assets/img/people/XH
+    title: Associate Professor
+    institution: Rice University
+    url: https://cs.rice.edu/~xh37/index.html
+  - name: Dr. Xiaoqian Jiang (biomedical informatics)
+    image: /assets/img/people/XJ
+    title: Professor
+    institution: The University of Texas Health Science Center of Houston
+    url: https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm
+  - name: Dr. Yafen Liang (anesthesia)
+    image: /assets/img/people/YL
+    title: Associate Professor
+    institution: The University of Texas Health Science Center of Houston
+    url: https://med.uth.edu/anesthesiology/2022/11/08/yafen-liang-md/
+
+
+key_personnel:
+  - name: Dr. Kai Zhang (biomedical informatics)
+    image: /assets/img/people/KZ
+    title: Assistant Professor
+    institution: The University of Texas Health Science Center of Houston
+    url: https://sbmi.uth.edu/faculty-and-staff/kai-zhang.htm
+  - name: Dr. Paul P. Potnuru (anesthesia)
+    image: /assets/img/people/PP
+    title: Assistant Professor
+    institution: The University of Texas Health Science Center of Houston
+    url: https://med.uth.edu/anesthesiology/2022/11/08/paul-potnuru-md/
+  - name: Dr. Rosalyn Reid (biology)
+    image: /assets/img/people/RR
+    title: Associate Professor
+    institution: Johnson C. Smith University
+    url: https://www.linkedin.com/in/rosalyn-lang-5773b918/

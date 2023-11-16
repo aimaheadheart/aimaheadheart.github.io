@@ -1,0 +1,41 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- 确保你的头部文件包含了对Bootstrap的引用 -->
+  {% include head.html %}
+  <title>{{ page.title | escape }}</title>
+</head>
+
+<body>
+  {% include header.html %}
+
+  <div class="container mt-5">
+    <h1>{{ page.title }}</h1>
+    <div class="row">
+      {% for person in site.data.people %}
+        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+          <div class="card h-100">
+            <img src="{{ person.image }}" class="card-img-top" alt="{{ person.name }}">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ person.url }}">{{ person.name }}</a>
+              </h5>
+              <p class="card-text">{{ person.title }}</p>
+              <p class="card-text">{{ person.institution }}</p>
+            </div>
+          </div>
+        </div>
+        {% if forloop.index | modulo:3 == 0 %}
+          <div class="w-100"></div> <!-- 在每三个卡片后创建一个新的行 -->
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+
+</html>
