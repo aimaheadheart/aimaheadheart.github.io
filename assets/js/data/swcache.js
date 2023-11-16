@@ -24,6 +24,7 @@ const resource = [
   
   
     '/assets/img/favicons/android-chrome-192x192.png',
+    '/assets/img/favicons/android-chrome-384x384.png',
     '/assets/img/favicons/android-chrome-512x512.png',
     '/assets/img/favicons/apple-touch-icon.png',
     '/assets/img/favicons/favicon-16x16.png',
