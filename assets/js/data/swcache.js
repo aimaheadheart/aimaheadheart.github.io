@@ -13,9 +13,9 @@ const resource = [
   
     '/people/',
   
-    '/publication/',
+    '/publications/',
   
-    '/demo/',
+    '/demos/',
   
     '/activities/',
   
