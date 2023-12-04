@@ -32,4 +32,70 @@ icon: fas fa-file-contract
 order: 2
 ---
 ```
+
+Next, you can modify the publication list according to markdown syntax.
+
+Set a title for your favorite publication category after the symbol:
+```
+## Title of the Publication Category
+```
+
+You can also add a subtitle:
+```
+## Title of the Publication Category
+### Subtitle
+```
+
+### Updating the "Demos" subpage
+We can easily update the "Demos" subpage by modifying the `_tabs/demos.md` file.
+
+Please do not modify the first five lines of the file, which are not relevant to the demo list:
+```
+---
+# the default layout is 'page'
+icon: fas fa-laptop-code
+order: 3
+---
+```
+
+Next, you can modify the demo list according to markdown syntax. template
+
+### Updating the "Demos" subpage
+We can easily update the "Demos" subpage by modifying the `_tabs/demos.md` file.
+
+Please do not modify the first five lines of the file, which are not relevant to the demo list:
+```
+---
+# the default layout is 'page'
+icon: fas fa-laptop-code
+order: 3
+---
+```
+
+Next, you can modify the demo list according to markdown syntax. template
+
+If you want to add figures related to the demo, please put the figure in the folder `assets/img/demos` and use it following the template.
+
+### Updating the "Activities" subpage
+Different from the above, we can update the "Activities" subpage by adding new markdown files to the `_posts` folder. Figures needed can be add to the `assets/img/demos` folder.
+
+"Activities" subpage looks like a news list, so we create a separate markdown file for each activity. Please create a new file named `YYYY-MM-DD-TITLE.md` (e.g., `2023-12-01-Hello-World.md`) and put it in the `_posts` of the root directory. The first part of the file name must use strict date format. 
+
+This time you need to modify the first several lines of the markdown file:
+```
+---
+title: Title of the Activity Post
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [TOP_CATEGORIE] or [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [tag]   # TAG names should always be lowercase
+pin: true   # Should always be true
+image:   # add if needed
+  path: assets/img/activities/figure.png   # add if needed
+---
+```
+
+Next, you can modify the demo list according to markdown syntax. template
+
+If you want to add figures related to the demo, please put the figure in the folder `assets/img/demos` and use it following the template.
+
   
