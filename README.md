@@ -16,6 +16,7 @@ This repository provides a website for the program: Heart Equity and Access - Re
 For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
 
 ### Important folders for website updating
+- `templates`: Contains markdown template files for website updating.
 - `_tabs`: Contains markdown files corresponding to each subpage of the website sidebar.
 - `_posts`: Contains markdown files corresponding to each activity post of the "Activities" subpage.
 - `assets/img/demos`: Contains figures used on the "Demos" subpage.
