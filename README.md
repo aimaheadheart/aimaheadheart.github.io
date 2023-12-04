@@ -1,6 +1,4 @@
-<div align="center">
-
-  # Heart Equity and Access - Responsible Tranplantation
+# Heart Equity and Access - Responsible Tranplantation
 
 This repository provides a website for the program: Heart Equity and Access - Responsible Tranplantation.
 
