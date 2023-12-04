@@ -11,8 +11,6 @@ const resource = [
   '/404.html',
 
   
-    '/about/',
-  
     '/people/',
   
     '/publication/',
@@ -22,12 +20,6 @@ const resource = [
     '/activities/',
   
     '/collaborations/',
-  
-    '/categories/',
-  
-    '/tags/',
-  
-    '/archives/',
   
 
   /* --- Favicons & compressed JS --- */
