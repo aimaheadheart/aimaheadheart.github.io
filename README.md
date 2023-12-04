@@ -11,10 +11,25 @@ This repository provides a website for the program: Heart Equity and Access - Re
 - Activities: Because we may organize some activities later, so put some on the page. We now list one previous tutorial on that, data-centric AI at KDD.
 - Collaborations: List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
 
+
 ## Tutorial on Updating the Website
+For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
+
 ### Important folders for website updating
 - `_tabs`: Contains markdown files corresponding to each subpage of the website sidebar.
 - `_posts`: Contains markdown files corresponding to each activity post of the "Activities" subpage.
 - `assets/img/demos`: Contains figures used on the "Demos" subpage.
 - `assets/img/activities`: Contains figures used by activity posts of the "Activities" subpage.
+
+### Updating the "Publications" subpage
+We can easily update the "Publications" subpage by modifying the `_tabs/publications.md` file.
+
+Please do not modify the first five lines of the file, which are not relevant to the publication list:
+```
+---
+# the default layout is 'page'
+icon: fas fa-file-contract
+order: 2
+---
+```
   
