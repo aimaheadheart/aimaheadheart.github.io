@@ -1,0 +1,291 @@
+<p>This tutorial will guide you how to write an activity post.</p>
+
+<h2 id="naming-and-path">Naming and Path</h2>
+
+<p>Create a new file named <code class="language-plaintext filepath highlighter-rouge">YYYY-MM-DD-TITLE.EXTENSION</code> and put it in the <code class="language-plaintext filepath highlighter-rouge">_posts</code> of the root directory. Please note that the <code class="language-plaintext filepath highlighter-rouge">EXTENSION</code> must be one of <code class="language-plaintext filepath highlighter-rouge">md</code> and <code class="language-plaintext filepath highlighter-rouge">markdown</code>.</p>
+
+<h2 id="front-matter">Front Matter</h2>
+
+<p>Basically, you need to fill the <a href="https://jekyllrb.com/docs/front-matter/">Front Matter</a> as below at the top of the post:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+</pre></td><td class="rouge-code"><pre>---
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [CATEGORIE] or [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [TAG]     # TAG names should always be lowercase
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="timezone-of-date">Timezone of Date</h3>
+
+<p>In order to accurately record the release date of a post, you should not only set up the <code class="language-plaintext highlighter-rouge">timezone</code> of <code class="language-plaintext filepath highlighter-rouge">_config.yml</code> but also provide the post’s timezone in variable <code class="language-plaintext highlighter-rouge">date</code> of its Front Matter block. Format: <code class="language-plaintext highlighter-rouge">+/-TTTT</code>, e.g. <code class="language-plaintext highlighter-rouge">+0800</code>.</p>
+
+<h3 id="categories-and-tags">Categories and Tags</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">categories</code> of each post are designed to contain up to two elements, and the number of elements in <code class="language-plaintext highlighter-rouge">tags</code> can be zero to infinity. For instance:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>---
+categories: [Animal, Insect]
+tags: [bee]
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="mathematics">Mathematics</h2>
+
+<p>For website performance reasons, the mathematical feature won’t be loaded by default. But it can be enabled by:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>---
+math: true
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>After enabling the mathematical feature, you can add math equations with the following syntax:</p>
+
+<ul>
+  <li><strong>Block math</strong> should be added with <code class="language-plaintext highlighter-rouge">$$ math $$</code> with <strong>mandatory</strong> blank lines before and after <code class="language-plaintext highlighter-rouge">$$</code></li>
+  <li><strong>Inline math</strong> (in lines) should be added with <code class="language-plaintext highlighter-rouge">$$ math $$</code> without any blank line before or after <code class="language-plaintext highlighter-rouge">$$</code></li>
+  <li><strong>Inline math</strong> (in lists) should be added with <code class="language-plaintext highlighter-rouge">\$$ math $$</code></li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+</pre></td><td class="rouge-code"><pre>&lt;!-- Block math, keep all blank lines --&gt;
+
+$$
+LaTeX_math_expression
+$$
+
+&lt;!-- Inline math in lines, NO blank lines --&gt;
+
+"Lorem ipsum dolor sit amet, $$ LaTeX_math_expression $$ consectetur adipiscing elit."
+
+&lt;!-- Inline math in lists, escape the first `$` --&gt;
+
+1. \$$ LaTeX_math_expression $$
+2. \$$ LaTeX_math_expression $$
+3. \$$ LaTeX_math_expression $$
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="images">Images</h2>
+
+<h3 id="caption">Caption</h3>
+
+<p>Add italics to the next line of an image, then it will become the caption and appear at the bottom of the image:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>![img-description](/path/to/image)
+_Image Caption_
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="size">Size</h3>
+
+<p>In order to prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<blockquote>
+  <p>For an SVG, you have to at least specify its <em>width</em>, otherwise it won’t be rendered.</p>
+</blockquote>
+
+<p>Starting from <em>Chirpy v5.0.0</em>, <code class="language-plaintext highlighter-rouge">height</code> and <code class="language-plaintext highlighter-rouge">width</code> support abbreviations (<code class="language-plaintext highlighter-rouge">height</code> → <code class="language-plaintext highlighter-rouge">h</code>, <code class="language-plaintext highlighter-rouge">width</code> → <code class="language-plaintext highlighter-rouge">w</code>). The following example has the same effect as the above:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="position">Position</h3>
+
+<p>By default, the image is centered, but you can specify the position by using one of the classes <code class="language-plaintext highlighter-rouge">normal</code>, <code class="language-plaintext highlighter-rouge">left</code>, and <code class="language-plaintext highlighter-rouge">right</code>.</p>
+
+<blockquote>
+  <p>Once the position is specified, the image caption should not be added.</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p><strong>Normal position</strong></p>
+
+    <p>Image will be left aligned in below sample:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![Desktop View](/assets/img/sample/mockup.png){: .normal }
+</pre></td></tr></tbody></table></code></pre></div>    </div>
+  </li>
+  <li>
+    <p><strong>Float to the left</strong></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![Desktop View](/assets/img/sample/mockup.png){: .left }
+</pre></td></tr></tbody></table></code></pre></div>    </div>
+  </li>
+  <li>
+    <p><strong>Float to the right</strong></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![Desktop View](/assets/img/sample/mockup.png){: .right }
+</pre></td></tr></tbody></table></code></pre></div>    </div>
+  </li>
+</ul>
+
+<h3 id="image-path">Image Path</h3>
+
+<p>When a post contains many images, it will be a time-consuming task to repeatedly define the path of the images. To solve this, we can define this path in the YAML block of the post:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>---
+img_path: /img/path/
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>And then, the image source of Markdown can write the file name directly:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>![The flower](flower.png)
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>The output will be:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;img src="/img/path/flower.png" alt="The flower"&gt;
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="preview-image">Preview Image</h3>
+
+<p>If you want to add an image at the top of the post, please provide an image with a resolution of <code class="language-plaintext highlighter-rouge">1200 x 630</code>. Please note that if the image aspect ratio does not meet <code class="language-plaintext highlighter-rouge">1.91 : 1</code>, the image will be scaled and cropped.</p>
+
+<p>Knowing these prerequisites, you can start setting the image’s attribute:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+</pre></td><td class="rouge-code"><pre>---
+image:
+  path: /path/to/image
+  alt: image alternative text
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Note that the <a href="#image-path"><code class="language-plaintext highlighter-rouge">img_path</code></a> can also be passed to the preview image, that is, when it has been set, the  attribute <code class="language-plaintext highlighter-rouge">path</code> only needs the image file name.</p>
+
+<p>For simple use, you can also just use <code class="language-plaintext highlighter-rouge">image</code> to define the path.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>---
+image: /path/to/image
+---
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="prompts">Prompts</h2>
+
+<p>There are several types of prompts: <code class="language-plaintext highlighter-rouge">tip</code>, <code class="language-plaintext highlighter-rouge">info</code>, <code class="language-plaintext highlighter-rouge">warning</code>, and <code class="language-plaintext highlighter-rouge">danger</code>. They can be generated by adding the class <code class="language-plaintext highlighter-rouge">prompt-{type}</code> to the blockquote. For example, define a prompt of type <code class="language-plaintext highlighter-rouge">info</code> as follows:</p>
+
+<div class="language-plaintext nolineno highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>&gt; Example line for prompt.
+{: .prompt-info }
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="inline-code">Inline Code</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>`inline code part`
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="filepath-hightlight">Filepath Hightlight</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>`/path/to/a/file.extend`{: .filepath}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="code-block">Code Block</h3>
+
+<p>Markdown symbols <code class="language-plaintext highlighter-rouge">```</code> can easily create a code block as follows:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>```
+This is a plaintext code snippet.
+```
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="specifying-language">Specifying Language</h4>
+
+<p>Using <code class="language-plaintext highlighter-rouge">```{language}</code> you will get a code block with syntax highlight:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">yaml
+</span><span class="na">key</span><span class="pi">:</span> <span class="s">value</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="line-number">Line Number</h4>
+
+<p>By default, all languages except <code class="language-plaintext highlighter-rouge">plaintext</code>, <code class="language-plaintext highlighter-rouge">console</code>, and <code class="language-plaintext highlighter-rouge">terminal</code> will display line numbers. When you want to hide the line number of a code block, add the class <code class="language-plaintext highlighter-rouge">nolineno</code> to it:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">shell
+</span><span class="nb">echo</span> <span class="s1">'No more line numbers!'</span>
+<span class="p">```</span>
+{: .nolineno }
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="specifying-the-filename">Specifying the Filename</h4>
+
+<p>You may have noticed that the code language will be displayed at the top of the code block. If you want to replace it with the file name, you can add the attribute <code class="language-plaintext highlighter-rouge">file</code> to achieve this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>```shell
+# content
+```
+{: file="path/to/file" }
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="learn-more">Learn More</h2>
+
+<p>For more knowledge about Jekyll posts, visit the <a href="https://jekyllrb.com/docs/posts/">Jekyll Docs: Posts</a>.</p>
