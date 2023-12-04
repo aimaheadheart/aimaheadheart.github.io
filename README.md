@@ -16,14 +16,14 @@ This repository provides a website for the program: Heart Equity and Access - Re
 For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
 
 ### Important folders for website updating
-- `templates`: Contains markdown template files for website updating.
-- `_tabs`: Contains markdown files corresponding to each subpage of the website sidebar.
-- `_posts`: Contains markdown files corresponding to each activity post of the "Activities" subpage.
-- `assets/img/demos`: Contains figures used on the "Demos" subpage.
-- `assets/img/activities`: Contains figures used by activity posts of the "Activities" subpage.
+- `/templates`: Contains markdown template files for website updating.
+- `/_tabs`: Contains markdown files corresponding to each subpage of the website sidebar.
+- `/_posts`: Contains markdown files corresponding to each activity post of the "Activities" subpage.
+- `/assets/img/demos`: Contains figures used on the "Demos" subpage.
+- `/assets/img/activities`: Contains figures used by activity posts of the "Activities" subpage.
 
 ### Updating the "Publications" subpage
-We can easily update the "Publications" subpage by modifying the `_tabs/publications.md` file.
+We can easily update the "Publications" subpage by modifying the `/_tabs/publications.md` file.
 
 Please do not modify the first five lines of the file, which are not relevant to the publication list:
 ```
@@ -34,21 +34,10 @@ order: 2
 ---
 ```
 
-Next, you can modify the publication list according to markdown syntax.
-
-Set a title for your favorite publication category after the symbol:
-```
-## Title of the Publication Category
-```
-
-You can also add a subtitle:
-```
-## Title of the Publication Category
-### Subtitle
-```
+Next, you can modify the publication list according to markdown syntax and the template file `/templates/publications-template.md`.
 
 ### Updating the "Demos" subpage
-We can easily update the "Demos" subpage by modifying the `_tabs/demos.md` file.
+We can easily update the "Demos" subpage by modifying the `/_tabs/demos.md` file.
 
 Please do not modify the first five lines of the file, which are not relevant to the demo list:
 ```
@@ -59,28 +48,12 @@ order: 3
 ---
 ```
 
-Next, you can modify the demo list according to markdown syntax. template
-
-### Updating the "Demos" subpage
-We can easily update the "Demos" subpage by modifying the `_tabs/demos.md` file.
-
-Please do not modify the first five lines of the file, which are not relevant to the demo list:
-```
----
-# the default layout is 'page'
-icon: fas fa-laptop-code
-order: 3
----
-```
-
-Next, you can modify the demo list according to markdown syntax. template
-
-If you want to add figures related to the demo, please put the figure in the folder `assets/img/demos` and use it following the template.
+Next, you can modify the demo list according to markdown syntax and the template file `/templates/demos-template.md`. If you want to add figures related to the demo, please put the figure in the folder `/assets/img/demos` and use it following the markdown syntax and the template file.
 
 ### Updating the "Activities" subpage
-Different from the above, we can update the "Activities" subpage by adding new markdown files to the `_posts` folder. Figures needed can be add to the `assets/img/demos` folder.
+Different from the above, we can update the "Activities" subpage by adding new markdown files to the `/_posts` folder. Figures needed can be add to the `/assets/img/demos` folder.
 
-"Activities" subpage looks like a news list, so we create a separate markdown file for each activity. Please create a new file named `YYYY-MM-DD-TITLE.md` (e.g., `2023-12-01-Hello-World.md`) and put it in the `_posts` of the root directory. The first part of the file name must use strict date format. 
+"Activities" subpage looks like a news list, so we create a separate markdown file for each activity. Please create a new file named `YYYY-MM-DD-TITLE.md` (e.g., `2023-12-01-Hello-World.md`) and put it in the `/_posts` of the root directory. The first part of the file name must use strict date format. 
 
 This time you need to modify the first several lines of the markdown file:
 ```
@@ -91,12 +64,13 @@ categories: [TOP_CATEGORIE] or [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [tag]   # TAG names should always be lowercase
 pin: true   # Should always be true
 image:   # add if needed
-  path: assets/img/activities/figure.png   # add if needed
+  path: /assets/img/activities/figure.png   # add if needed
 ---
 ```
 
-Next, you can modify the demo list according to markdown syntax. template
+Next, you can modify the demo list according to markdown syntax and the template file `/templates/2023-12-01-post-template.md`. If you want to add figures related to the activity post, please put the figure in the folder `/assets/img/activities` and use it following the template.
 
-If you want to add figures related to the demo, please put the figure in the folder `assets/img/demos` and use it following the template.
+### More complex markdown functions and syntax
+The template file `/templates/2023-12-01-markdown-text-and-typography.md` provides more complex markdown functions and syntax for website updating. Please read it if needed.
 
   
