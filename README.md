@@ -29,10 +29,10 @@ Because we may organize some activities later, so put some on the page. We now l
 #### Collaborations
 List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
 
-## Website structure
+## Tutorial on Updating the Website
 ### Important folders for website updating
 `_tabs`{: .filepath}: Contains markdown files corresponding to each subpage of the website sidebar.
 `_posts`{: .filepath}: Contains markdown files corresponding to each activity post of the "Activities" subpage.
+`assets/img/demos`{: .filepath}: Contains figures used on the "Demos" subpage.
 `assets/img/activities`{: .filepath}: Contains figures used by activity posts of the "Activities" subpage.
-`_posts`{: .filepath}: Contains markdown files corresponding to each activity post of the "Activities" subpage.
   
