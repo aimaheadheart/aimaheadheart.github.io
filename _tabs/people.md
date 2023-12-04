@@ -3,7 +3,7 @@ layout: default
 title: Our Team
 permalink: /people/
 icon: fas fa-person
-order: 2
+order: 1
 ---
 
 ## Principal Investigator(s):
