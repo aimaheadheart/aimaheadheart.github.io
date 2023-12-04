@@ -4,35 +4,17 @@ This repository provides a website for the program: Heart Equity and Access - Re
 
 ## Website Structure
 ### Categories:
-- [Homepage](#homepage)
-- [People](#people)
-- [Publications](#publications)
-- [Demos](#demos)
-- [Activities](#activities)
-- [Collaborations](#collaborations)
-  
-#### Homepage
-Provides our project description.
-  
-#### People
-List all the related people including their images, profiles, affiliations, etc..
-  
-#### Publications
-List all the related publications related to organ transplant.
-  
-#### Demos
-List related demos from our group.
-  
-#### Activities
-Because we may organize some activities later, so put some on the page. We now list one previous tutorial on that, data-centric AI at KDD.
-  
-#### Collaborations
-List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
+- Homepage: Provides our project description.
+- People: List all the related people including their images, profiles, affiliations, etc..
+- Publications: List all the related publications related to organ transplant.
+- Demos: List related demos from our group.
+- Activities: Because we may organize some activities later, so put some on the page. We now list one previous tutorial on that, data-centric AI at KDD.
+- Collaborations: List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
 
 ## Tutorial on Updating the Website
 ### Important folders for website updating
-`_tabs`{: .filepath}: Contains markdown files corresponding to each subpage of the website sidebar.
-`_posts`{: .filepath}: Contains markdown files corresponding to each activity post of the "Activities" subpage.
-`assets/img/demos`{: .filepath}: Contains figures used on the "Demos" subpage.
-`assets/img/activities`{: .filepath}: Contains figures used by activity posts of the "Activities" subpage.
+- `_tabs`: Contains markdown files corresponding to each subpage of the website sidebar.
+- `_posts`: Contains markdown files corresponding to each activity post of the "Activities" subpage.
+- `assets/img/demos`: Contains figures used on the "Demos" subpage.
+- `assets/img/activities`: Contains figures used by activity posts of the "Activities" subpage.
   
