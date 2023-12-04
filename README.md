@@ -2,4 +2,39 @@
 
   # Heart Equity and Access - Responsible Tranplantation
 
-  A website for the program: Heart Equity and Access - Responsible Tranplantation.
+  This repository provides a website for the program: Heart Equity and Access - Responsible Tranplantation.
+
+  ## Website Structure
+  ### Categories:
+  - [Homepage](#homepage)
+  - [People](#people)
+  - [Publications](#publications)
+  - [Demos](#demos)
+  - [Activities](#activities)
+  - [Collaborations](#collaborations)
+  
+  #### Homepage
+  Provides our project description.
+  
+  #### People
+  List all the related people including their images, profiles, affiliations, etc..
+  
+  #### Publications
+  List all the related publications related to organ transplant.
+  
+  #### Demos
+  List related demos from our group.
+  
+  #### Activities
+  Because we may organize some activities later, so put some on the page. We now list one previous tutorial on that, data-centric AI at KDD.
+  
+  #### Collaborations
+  List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
+
+  ## Website structure
+  ### Important folders for website updating
+  `_tabs`{: .filepath}: Contains markdown files corresponding to each subpage of the website sidebar.
+  `_posts`{: .filepath}: Contains markdown files corresponding to each activity post of the "Activities" subpage.
+  `assets/img/activities`{: .filepath}: Contains figures used by activity posts of the "Activities" subpage.
+  `_posts`{: .filepath}: Contains markdown files corresponding to each activity post of the "Activities" subpage.
+  
