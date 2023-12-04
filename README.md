@@ -9,7 +9,7 @@ This repository provides a website for the program: Heart Equity and Access - Re
 - Publications: List all the related publications related to organ transplant.
 - Demos: List related demos from our group.
 - Activities: Because we may organize some activities later, so put some on the page. We now list one previous tutorial on that, data-centric AI at KDD.
-- Collaborations: List the icon of all the institutes, tamu, rice, etc. And also list the icons of the funding agencies, NIH, AIM-AHEAD.
+- Collaborations: List the icon of all the institutes, tamu, rice, etc. And will also list the icons of the funding agencies, NIH, AIM-AHEAD.
 
 
 ## Tutorial on Updating the Website
