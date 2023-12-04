@@ -244,24 +244,6 @@ You may have noticed that the code language will be displayed at the top of the 
 {: file="path/to/file" }
 ````
 
-## Videos
-
-You can embed a video with the following syntax:
-
-```liquid
-{% include embed/{Platform}.html id='{ID}' %}
-```
-Where `Platform` is the lowercase of the platform name, and `ID` is the video ID.
-
-The following table shows how to get the two parameters we need in a given video URL, and you can also know the currently supported video platforms.
-
-| Video URL                                                                                          | Platform  | ID            |
-|----------------------------------------------------------------------------------------------------|-----------|:--------------|
-| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube` | `H-B46URT4mg` |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`  | `1634779211`  |
-
-
-
 ## Learn More
 
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
