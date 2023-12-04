@@ -36,6 +36,10 @@ order: 2
 
 Next, you can modify the publication list according to markdown syntax and the template file `/templates/publications-template.md`.
 
+Lastly, in the folder `/_tabs`, by clicking the "Add file" button and choose "Upload files", you can upload the new `publications.md` file to replace the old one and complete the updating.
+
+![uploadpublications](/assets/img/readme/tabs.png)
+
 ### Updating the "Demos" subpage
 We can easily update the "Demos" subpage by modifying the `/_tabs/demos.md` file.
 
@@ -49,6 +53,10 @@ order: 3
 ```
 
 Next, you can modify the demo list according to markdown syntax and the template file `/templates/demos-template.md`. If you want to add figures related to the demo, please put the figure in the folder `/assets/img/demos` and use it following the markdown syntax and the template file.
+
+Lastly, in the folder `/_tabs`, by clicking the "Add file" button and choose "Upload files", you can upload the new `demos.md` file to replace the old one and complete the updating.
+
+![uploaddemos](/assets/img/readme/tabs.png)
 
 ### Updating the "Activities" subpage
 Different from the above, we can update the "Activities" subpage by adding new markdown files to the `/_posts` folder. Figures needed can be add to the `/assets/img/demos` folder.
@@ -69,6 +77,10 @@ image:   # add if needed
 ```
 
 Next, you can modify the demo list according to markdown syntax and the template file `/templates/2023-12-01-post-template.md`. If you want to add figures related to the activity post, please put the figure in the folder `/assets/img/activities` and use it following the template.
+
+Lastly, in the folder `/_posts`, by clicking the "Add file" button and choose "Upload files", you can upload the new activity post `YYYY-MM-DD-TITLE.md.md` file and complete the updating.
+
+![uploadposts](/assets/img/readme/posts.png)
 
 ### More complex markdown functions and syntax
 The template file `/templates/2023-12-01-markdown-text-and-typography.md` provides more complex markdown functions and syntax for website updating. Please read it if needed.
