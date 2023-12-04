@@ -6,7 +6,7 @@ tags: [writing]
 pin: true
 math: true
 image:
-  path: assets/img/activities/figure.png
+  path: /assets/img/activities/figure.png
 ---
 
 This tutorial will guide you how to write an activity post.
@@ -138,20 +138,20 @@ When a post contains many images, it will be a time-consuming task to repeatedly
 
 ```
 ---
-img_path: /img/path/
+img_path: /assets/img/activities
 ---
 ```
 
 And then, the image source of Markdown can write the file name directly:
 
 ```
-![The flower](flower.png)
+![The figure](figures.png)
 ```
 
 The output will be:
 
 ```
-<img src="/img/path/flower.png" alt="The flower">
+<img src="/assets/img/activities/figures.png" alt="The flower">
 ```
 
 ### Preview Image
