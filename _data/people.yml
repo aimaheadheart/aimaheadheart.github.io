@@ -47,3 +47,12 @@ key_personnel:
     title: Associate Professor
     institution: Johnson C. Smith University
     url: https://www.linkedin.com/in/rosalyn-lang-5773b918/
+
+
+students:
+  - name: Sirui Ding
+    image: /assets/img/people/SD
+    title: Ph.D. Candidate
+    institution: Texas A & M University
+    url: https://www.linkedin.com/in/sirui-ding-2aa88a161/
+
