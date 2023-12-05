@@ -78,7 +78,7 @@ image:   # add if needed
 
 Next, you can modify the demo list according to markdown syntax and the template file `/templates/2023-12-01-post-template.md`. If you want to add figures related to the activity post, please put the figure in the folder `/assets/img/activities` and use it following the template.
 
-Lastly, in the folder `/_posts`, by clicking the "Add file" button and choose "Upload files", you can upload the new activity post `YYYY-MM-DD-TITLE.md.md` file and complete the updating.
+Lastly, in the folder `/_posts`, by clicking the "Add file" button and choose "Upload files", you can upload the new activity post `YYYY-MM-DD-TITLE.md.` file and complete the updating.
 
 ![uploadposts](/assets/img/readme/posts.png)
 
