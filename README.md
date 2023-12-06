@@ -37,7 +37,7 @@ Purpose: Serves as the public face of our project, showcasing our work and team.
 
 
 ## Tutorial on Updating the Website
-After being set up as a collaborator of the project, you can use your GitHub account to access and modify the repository files to update the website. All changes for updating are on the main branch of the repository. You don’t need to create new branches. For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
+After being set up as a collaborator of the project, you can use your GitHub account to access and modify the repository files to update the website. All changes for updating are on the master branch of the repository. You don’t need to create new branches. For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
 
 ### Important folders for website updating
 - `/templates`: Contains markdown template files for website updating.
