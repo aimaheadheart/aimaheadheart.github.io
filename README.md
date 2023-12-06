@@ -73,7 +73,7 @@ We can easily update the "Demos" subpage by modifying the `/_tabs/demos.md` file
 
 As shown in the figure, we need to click on this button to download the file first. Then we can change the contents locally.
 
-![downloadpublications](/assets/img/readme/demos.png)
+![downloaddemos](/assets/img/readme/demos.png)
 
 Also, please do not modify the first five lines of the file, which are not relevant to the demo list:
 ```
