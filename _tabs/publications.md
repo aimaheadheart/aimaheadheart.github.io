@@ -26,7 +26,7 @@ order: 2
 
 ## Recent Papers
 
-- [FERI: A Multitask-based Fairness Achieving Algorithm with Applications to Fair Organ Transplantation](https://arxiv.org/pdf/2310.13820.pdf)
+- FERI: A Multitask-based Fairness Achieving Algorithm with Applications to Fair Organ Transplantation
 - [A Transformer-Based Deep Learning Approach for Fairly Predicting Post-Liver Transplant Risk Factors](https://arxiv.org/pdf/2304.02780)
 - [Multi-Task Learning for Post-transplant Cause of Death Analysis: A Case Study on Liver Transplant](https://arxiv.org/pdf/2304.00012)
 - [Fairly Predicting Graft Failure in Liver Transplant for Organ Assigning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148275/)
