@@ -49,6 +49,10 @@ After being set up as a collaborator of the project, you can use your GitHub acc
 ### Updating the "Publications" subpage
 We can easily update the "Publications" subpage by modifying the `/_tabs/publications.md` file.
 
+As shown in the figure, we need to click on this button to download the file first. Then we can change the contents locally.
+
+![downloadpublications](/assets/img/readme/publications.png)
+
 Please do not modify the first five lines of the file, which are not relevant to the publication list:
 ```
 ---
@@ -67,7 +71,11 @@ Lastly, in the folder `/_tabs`, by clicking the "Add file" button and choose "Up
 ### Updating the "Demos" subpage
 We can easily update the "Demos" subpage by modifying the `/_tabs/demos.md` file.
 
-Please do not modify the first five lines of the file, which are not relevant to the demo list:
+As shown in the figure, we need to click on this button to download the file first. Then we can change the contents locally.
+
+![downloadpublications](/assets/img/readme/demos.png)
+
+Also, please do not modify the first five lines of the file, which are not relevant to the demo list:
 ```
 ---
 # the default layout is 'page'
