@@ -70,11 +70,13 @@ title: Title of the Activity Post
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE] or [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [tag]   # TAG names should always be lowercase
-pin: true   # Should always be true
+pin: true   # Should always be true, otherwise the post will be hidden
 image:   # add if needed
   path: /assets/img/activities/figure.png   # add if needed
 ---
 ```
+
+Please note that the date in the file name of the new activity post and the date at the beginning of the file cannot be in the future, otherwise this post will not be displayed.
 
 Next, you can modify the demo list according to markdown syntax and the template file `/templates/2023-12-01-post-template.md`. If you want to add figures related to the activity post, please put the figure in the folder `/assets/img/activities` and use it following the template.
 
