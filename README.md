@@ -13,7 +13,7 @@ This repository provides a website for the program: Heart Equity and Access - Re
 
 
 ## Tutorial on Updating the Website
-For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
+After being set up as a collaborator of the project, you can use your GitHub account to access and modify the repository files to update the website. For the stability of the website, please do not modify folders or files that have not been mentioned without discussion.
 
 ### Important folders for website updating
 - `/templates`: Contains markdown template files for website updating.
