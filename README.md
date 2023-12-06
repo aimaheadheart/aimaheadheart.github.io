@@ -6,19 +6,24 @@ This repository provides a website for the program: Heart Equity and Access - Re
 ### Mailist for Internal Communication:
 
 Mailist for internal communication: aimahead-heart@googlegroups.com
+
 Purpose: If you want to email to the whole project team, please send an email to this google group.
 
 ### Manager Gmail Account:
 Gmail Account: aimaheadheart@gmail.com
+
 Purpose: This account is created to manage the mailist, website and the corresponding GitHub repository. Please use the mailist for project-related communications.
 
 ### Version Control and Code Repository:
 GitHub Account: aimaheadheart
+
 GitHub URL: https://github.com/aimaheadheart
-Objective: To manage our code, documents, and version control efficiently.
+
+Purpose: To manage our code, documents, and version control efficiently.
 
 ### Project Website:
 Website URL: https://aimaheadheart.github.io
+
 Purpose: Serves as the public face of our project, showcasing our work and team.
 
 ## Website Structure
