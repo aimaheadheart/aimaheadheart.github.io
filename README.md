@@ -3,16 +3,16 @@
 This repository provides a website for the program: Heart Equity and Access - Responsible Tranplantation.
 
 ## Important Components of the Project
-### Mailist for Internal Communication:
+### Maillist for Internal Communication:
 
-Mailist for internal communication: aimahead-heart@googlegroups.com
+Maillist for internal communication: aimahead-heart@googlegroups.com
 
 Purpose: If you want to email to the whole project team, please send an email to this google group.
 
 ### Manager Gmail Account:
 Gmail Account: aimaheadheart@gmail.com
 
-Purpose: This account is created for the student to manage the mailist, website and the corresponding GitHub repository. Please send an email to this account if you have any issues regarding the project access and management. Otherwise, please use the mailist above for project-related communications.
+Purpose: This account is created for the student to manage the mailist, website and the corresponding GitHub repository. Please send an email to this account if you have any issues regarding the project access and management. Otherwise, please use the maillist above for project-related communications.
 
 ### Version Control and Code Repository:
 GitHub Account: aimaheadheart
