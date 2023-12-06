@@ -91,7 +91,7 @@ Lastly, in the folder `/_tabs`, by clicking the "Add file" button and choose "Up
 ![uploaddemos](/assets/img/readme/tabs.png)
 
 ### Updating the "Activities" subpage
-Different from the above, we can update the "Activities" subpage by adding new markdown files to the `/_posts` folder. Figures needed can be add to the `/assets/img/demos` folder.
+Different from the above, each activity post has its own markdown file. We can update the "Activities" subpage by adding new markdown files to the `/_posts` folder. Figures needed can be add to the `/assets/img/demos` folder.
 
 "Activities" subpage looks like a news list, so we create a separate markdown file for each activity. Please create a new file named `YYYY-MM-DD-TITLE.md` (e.g., `2023-12-01-Hello-World.md`) and put it in the `/_posts` of the root directory. The first part of the file name must use strict date format. 
 
