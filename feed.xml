@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2023-12-06T09:04:29-06:00</updated>
+  <updated>2023-12-06T09:07:30-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,45 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Writing a New Post</title>
-    <link href="https://aimaheadheart.github.io/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2023-12-06T08:00:00-06:00</published>
-  
-    <updated>2023-12-06T08:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/write-a-new-post/</id>
-    <content src="https://aimaheadheart.github.io/posts/write-a-new-post/" />
-    <author>
-      <name>aimaheadheart</name>
-    </author>
-
-  
-    
-    <category term="Example" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This is a new activity post!
-
-Title
-
-Hello world!
-
-    </summary>
-  
-
-  </entry>
 
   
   <entry>

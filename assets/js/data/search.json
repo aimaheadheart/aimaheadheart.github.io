@@ -1,23 +1,6 @@
 [
   
   {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Example",
-    "tags": "writing",
-    "date": "2023-12-06 08:00:00 -0600",
-    
-
-
-
-
-
-    
-    "snippet": "This is a new activity post!TitleHello world!",
-    "content": "This is a new activity post!TitleHello world!"
-  },
-  
-  {
     "title": "Data-Centric AI - KDD 2023 Tutorial",
     "url": "/posts/data-centric-AI-at-KDD/",
     "categories": "Activity",
