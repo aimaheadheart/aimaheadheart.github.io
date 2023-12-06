@@ -12,7 +12,7 @@ Purpose: If you want to email to the whole project team, please send an email to
 ### Manager Gmail Account:
 Gmail Account: aimaheadheart@gmail.com
 
-Purpose: This account is created for the student to manage the mailist, website and the corresponding GitHub repository. Please use the mailist for project-related communications.
+Purpose: This account is created for the student to manage the mailist, website and the corresponding GitHub repository. Please send an email to this account if you have any issues regarding the project access and management. Please use the mailist for project-related communications.
 
 ### Version Control and Code Repository:
 GitHub Account: aimaheadheart
