@@ -26,6 +26,8 @@ order: 2
 
 ## Recent Papers
 
+- [Large Language Models for Healthcare Data Augmentation: An Example on Patient-Trial Matching](https://arxiv.org/abs/2303.16756)
+- [Does synthetic data generation of llms help clinical text mining?](https://arxiv.org/abs/2303.04360)
 - [FERI: A Multitask-based Fairness Achieving Algorithm with Applications to Fair Organ Transplantation](https://arxiv.org/pdf/2310.13820.pdf)
 - [A Transformer-Based Deep Learning Approach for Fairly Predicting Post-Liver Transplant Risk Factors](https://arxiv.org/pdf/2304.02780)
 - [Multi-Task Learning for Post-transplant Cause of Death Analysis: A Case Study on Liver Transplant](https://arxiv.org/pdf/2304.00012)
