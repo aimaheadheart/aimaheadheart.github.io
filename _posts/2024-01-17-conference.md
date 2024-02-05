@@ -9,4 +9,4 @@ math: true
 mermaid: true
 ---
 
-Our team members Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
+Our team member Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
