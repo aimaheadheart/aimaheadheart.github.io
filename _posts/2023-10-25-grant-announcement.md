@@ -1,9 +1,9 @@
 ---
-title:  Press Release about AIM-AHEAD Grant Receipt
+title: Press Release about AIM-AHEAD Grant Receipt
 author: heart
 date: 2023-10-25 14:00:00 -0600
 categories: [Activity]
-tags: [tutorial]
+tags: [news]
 pin: true
 math: true
 mermaid: true
@@ -13,5 +13,5 @@ image:
 
 A press release about AIM-AHEAD grant receipt!
 
-[Webpage](https://med.uth.edu/anesthesiology/2023/10/25/mcwilliams-school-of-biomedical-informatics-grant-announcement/)
+[Details](https://med.uth.edu/anesthesiology/2023/10/25/mcwilliams-school-of-biomedical-informatics-grant-announcement/)
 
