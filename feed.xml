@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-05T14:36:31-06:00</updated>
+  <updated>2024-02-05T14:52:05-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -55,6 +55,45 @@
 
   
   <entry>
+    <title>Dr. Brown Attended the National Academies Event</title>
+    <link href="https://aimaheadheart.github.io/posts/event/" rel="alternate" type="text/html" title="Dr. Brown Attended the National Academies Event" />
+    <published>2024-01-31T14:00:00-06:00</published>
+  
+    <updated>2024-01-31T14:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/event/</id>
+    <content src="https://aimaheadheart.github.io/posts/event/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Our team member Dr. Cheryl Brown attended the National Academies event, The Use of Race and Ethnicity in Biomedical Research - Meeting 3, a meeting focus on race and disparities from different disciplines.
+
+The event details and recording can be found here.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Dr. Zou Presented at a UTHealth AIM-AHEAD Conference</title>
     <link href="https://aimaheadheart.github.io/posts/conference/" rel="alternate" type="text/html" title="Dr. Zou Presented at a UTHealth AIM-AHEAD Conference" />
     <published>2024-01-17T14:00:00-06:00</published>
@@ -81,7 +120,7 @@
 
 
 
-      Our team members Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
+      Our team member Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
 
     </summary>
   
@@ -156,45 +195,6 @@ The topic is: AI Fairness and Data Bias Mitigation.
       Our team member Sirui Ding gave a talk at SBMI on 2024/1/10.
 
 The topic is: Towards Precise and Equitable Organ Transplant with Machine learning.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Press Release about AIM-AHEAD Grant Receipt</title>
-    <link href="https://aimaheadheart.github.io/posts/grant-announcement/" rel="alternate" type="text/html" title="Press Release about AIM-AHEAD Grant Receipt" />
-    <published>2023-10-25T15:00:00-05:00</published>
-  
-    <updated>2023-10-25T15:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/grant-announcement/</id>
-    <content src="https://aimaheadheart.github.io/posts/grant-announcement/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Press Release
-
-A press release about AIM-AHEAD grant receipt!
-
 
     </summary>
   
