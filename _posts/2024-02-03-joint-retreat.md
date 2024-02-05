@@ -1,5 +1,5 @@
 ---
-title: A Talk at SBMI
+title: Joint Retreat
 author: heart
 date: 2024-02-03 14:00:00 -0600
 categories: [Activity]
