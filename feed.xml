@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-05T14:17:26-06:00</updated>
+  <updated>2024-02-05T14:28:19-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,78 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>A Talk at SBMI</title>
+    <link href="https://aimaheadheart.github.io/posts/joint-retreat/" rel="alternate" type="text/html" title="A Talk at SBMI" />
+    <published>2024-02-03T14:00:00-06:00</published>
+  
+    <updated>2024-02-03T14:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/joint-retreat/</id>
+    <content src="https://aimaheadheart.github.io/posts/joint-retreat/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Our team members Dr. Paul Potnuru and Dr. Yafen Liang attended a Joint Retreat on 2/3/2024. The Joint Retreat was held at UTHealth Houston, involving two departments: the McGovern Medical School’s Department of Anesthesiology, Critical Care, and Pain Medicine, and the McWilliams School of Biomedical Informatics (MSBMI).
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>A Talk at Course</title>
+    <link href="https://aimaheadheart.github.io/posts/talk/" rel="alternate" type="text/html" title="A Talk at Course" />
+    <published>2024-01-15T14:00:00-06:00</published>
+  
+    <updated>2024-01-15T14:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/talk/</id>
+    <content src="https://aimaheadheart.github.io/posts/talk/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Our team member Dr. Kai Zhang gave a guest lecture on course: Foundation II (MED5311).
+
+The topic is: AI Fairness and Data Bias Mitigation.
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -46,7 +118,9 @@
 
 
 
-      Our team member Sirui Ding gave a talk at SBMI on 2024/1/10. The topic is: Towards Precise and Equitable Organ Transplant with Machine learning.
+      Our team member Sirui Ding gave a talk at SBMI on 2024/1/10.
+
+The topic is: Towards Precise and Equitable Organ Transplant with Machine learning.
 
     </summary>
   
@@ -123,46 +197,6 @@ A press release about AIM-AHEAD grant receipt!
       
 
 Our team members Dr. Na Zou and Dr. Kai Zhang became mentors of the AIM-AHEAD fellowship award program.
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Data-Centric AI - KDD 2023 Tutorial</title>
-    <link href="https://aimaheadheart.github.io/posts/data-centric-AI-at-KDD/" rel="alternate" type="text/html" title="Data-Centric AI - KDD 2023 Tutorial" />
-    <published>2023-08-08T15:00:00-05:00</published>
-  
-    <updated>2023-08-08T15:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/data-centric-AI-at-KDD/</id>
-    <content src="https://aimaheadheart.github.io/posts/data-centric-AI-at-KDD/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      2:00 pm to 5:00 pm PST, Tuesday, August 8, 2023
-
-202A, Long Beach Convention &amp;amp; Entertainment Center
-
-Webpage
 
 
     </summary>
