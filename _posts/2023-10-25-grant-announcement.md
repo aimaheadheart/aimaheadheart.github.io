@@ -9,10 +9,8 @@ math: true
 mermaid: true
 ---
 
-A press release about AIM-AHEAD grant receipt!
-
 ![press-release](/assets/img/activities/23grant.png)
-_Image Caption_
+_Press Release_
 
-[Details](https://med.uth.edu/anesthesiology/2023/10/25/mcwilliams-school-of-biomedical-informatics-grant-announcement/)
+A [press release](https://med.uth.edu/anesthesiology/2023/10/25/mcwilliams-school-of-biomedical-informatics-grant-announcement/) about AIM-AHEAD grant receipt!
 
