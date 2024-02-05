@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-01-04T13:56:58-06:00</updated>
+  <updated>2024-02-05T13:38:28-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Press Release about AIM-AHEAD Grant Receipt</title>
+    <link href="https://aimaheadheart.github.io/posts/grant-announcement/" rel="alternate" type="text/html" title="Press Release about AIM-AHEAD Grant Receipt" />
+    <published>2023-10-25T15:00:00-05:00</published>
+  
+    <updated>2023-10-25T15:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/grant-announcement/</id>
+    <content src="https://aimaheadheart.github.io/posts/grant-announcement/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A press release about AIM-AHEAD grant receipt!
+
+Webpage
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
