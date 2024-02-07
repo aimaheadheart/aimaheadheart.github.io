@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-05T15:00:08-06:00</updated>
+  <updated>2024-02-07T12:24:08-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>JHLT The Podcast - Heart Transplantation in Patients with Socioeconomically Distressed Communities</title>
+    <link href="https://aimaheadheart.github.io/posts/podcast/" rel="alternate" type="text/html" title="JHLT The Podcast - Heart Transplantation in Patients with Socioeconomically Distressed Communities" />
+    <published>2024-02-07T11:00:00-06:00</published>
+  
+    <updated>2024-02-07T11:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/podcast/</id>
+    <content src="https://aimaheadheart.github.io/posts/podcast/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+The February episode of JHLT: The Podcast features a study that might be of interest to listeners treating heart failure patients or who are interested in managing diverse patient populations.
+
+Kevin-Chen-Headshot_100px_2728437.pngIn the second segment of the episode, the Digital Media Editors speak to first author Kevin Chen, MD, on the study “Heart transplantation in patients from socioecon...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -158,43 +196,6 @@ The event details and recording can be found here.
       Our team member Dr. Kai Zhang gave a guest lecture on course: Foundation II (MED5311).
 
 The topic is: AI Fairness and Data Bias Mitigation.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>A Talk at SBMI</title>
-    <link href="https://aimaheadheart.github.io/posts/talk/" rel="alternate" type="text/html" title="A Talk at SBMI" />
-    <published>2024-01-10T14:00:00-06:00</published>
-  
-    <updated>2024-01-10T14:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/talk/</id>
-    <content src="https://aimaheadheart.github.io/posts/talk/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Our team member Sirui Ding gave a talk at SBMI on 2024/1/10.
-
-The topic is: Towards Precise and Equitable Organ Transplant with Machine learning.
 
     </summary>
   
