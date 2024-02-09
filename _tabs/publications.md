@@ -149,18 +149,31 @@ order: 2
 
 ## Fairness Packages and Frameworks
 
+- [FairMLHealth](https://dl.acm.org/doi/abs/10.1145/3462203.3475894)
 - [AI Fairness 360](https://github.com/IBM/AIF360)
-- [fairlearn: Fairness in machine learning mitigation algorithms](https://github.com/fairlearn/fairlearn)
-- [algofairness](https://github.com/algofairness)
+- [Fairlearn: Fairness in machine learning mitigation algorithms](https://github.com/fairlearn/fairlearn)
+- [Fairness-comparison](https://dl.acm.org/doi/10.1145/3287560.3287589)
+- [Algofairness](https://github.com/algofairness)
   - [fairness: Benchmarking of fairness aware machine learning algorithms](https://github.com/algofairness/fairness-comparison)
+- [MEASURES](https://dl.acm.org/doi/abs/10.1145/3306618.3314262)
+- [Themis-ml](https://www.tandfonline.com/doi/full/10.1080/15228835.2017.1416512?scroll=top&needAccess=true)
+- [FairML](https://dspace.mit.edu/bitstream/handle/1721.1/108212/980349219-MIT.pdf?sequence=1&isAllowed=y)
+- [Black Box Auditing](https://ieeexplore.ieee.org/document/7837824)
+- [What-If Tool](https://pair-code.github.io/what-if-tool/)
 - [FairSight: Visual Analytics for Fairness in Decision Making](https://github.com/ayong8/FairSight)
 - [GD-IQ: Spellcheck for Bias (code not available)](https://seejane.org/video/gd-iq-spellcheck-for-bias/)
-- [aequitas: Bias and Fairness Audit Toolkit](https://github.com/dssg/aequitas)
+- [Aequitas: Bias and Fairness Audit Toolkit](https://github.com/dssg/aequitas)
+- [DECAF](https://proceedings.neurips.cc/paper/2021/file/ba9fab001f67381e56e410575874d967-Paper.pdf)
+- [REPAIR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
 - [CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models](https://www.aies-conference.com/2020/wp-content/papers/099.pdf)
 - [ML-fairness-gym: Google's implementation based on OpenAI's Gym](https://github.com/google/ml-fairness-gym)
-- [fairness-indicators: Tensorflow's Fairness Evaluation and Visualization Toolkit](https://github.com/tensorflow/fairness-indicators)
+- [Fairness-indicators: Tensorflow's Fairness Evaluation and Visualization Toolkit](https://github.com/tensorflow/fairness-indicators)
+- [Adv-Demog-Text](https://arxiv.org/pdf/1808.06640.pdf)
+- [GN-GloVe](https://arxiv.org/pdf/1809.01496.pdf)
+- [Tensorflow Constrained Optimization](https://proceedings.mlr.press/v97/cotter19b/cotter19b.pdf)
 - [scikit-fairness](https://github.com/koaning/scikit-fairness)
 - [Mitigating Gender Bias In Captioning System](https://github.com/CaptionGenderBias2020/Mitigating_Gender_Bias_In_Captioning_System_NIPS2020)
+- [Dataset Nutrition Label](https://arxiv.org/pdf/1805.03677.pdf)
 
 
 ## Conferences
