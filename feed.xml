@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-08T14:21:51-06:00</updated>
+  <updated>2024-02-09T14:44:56-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,42 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>CMS Issues AI Guidance for Medicare Advantage Plans</title>
+    <link href="https://aimaheadheart.github.io/posts/AI-guidance/" rel="alternate" type="text/html" title="CMS Issues AI Guidance for Medicare Advantage Plans" />
+    <published>2024-02-08T11:00:00-06:00</published>
+  
+    <updated>2024-02-08T11:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/AI-guidance/</id>
+    <content src="https://aimaheadheart.github.io/posts/AI-guidance/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      CMS: MA insurers can’t use AI, algorithms to deny care.
+
+The CMS sent a memo clarifying that Medicare Advantage insurers are not allowed to use algorithms or AI-powered tools as the basis for denying care or coverage. Algorithms and AI tools can be used only to support coverage decisions, and insurers must ensure that the tools they are using comply with the CMS’ coverage decision requirements,...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -159,43 +195,6 @@ The event details and recording can be found here.
 
 
       Our team member Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>A Talk at Course</title>
-    <link href="https://aimaheadheart.github.io/posts/talk/" rel="alternate" type="text/html" title="A Talk at Course" />
-    <published>2024-01-15T14:00:00-06:00</published>
-  
-    <updated>2024-01-15T14:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/talk/</id>
-    <content src="https://aimaheadheart.github.io/posts/talk/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Our team member Dr. Kai Zhang gave a guest lecture on course: Foundation II (MED5311).
-
-The topic is: AI Fairness and Data Bias Mitigation.
 
     </summary>
   
