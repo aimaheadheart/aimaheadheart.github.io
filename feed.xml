@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-09T14:44:56-06:00</updated>
+  <updated>2024-02-15T11:59:50-06:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,51 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming AI-CARES Webinar Series</title>
+    <link href="https://aimaheadheart.github.io/posts/webinar-series/" rel="alternate" type="text/html" title="Upcoming AI-CARES Webinar Series" />
+    <published>2024-02-14T10:00:00-06:00</published>
+  
+    <updated>2024-02-14T10:00:00-06:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/webinar-series/</id>
+    <content src="https://aimaheadheart.github.io/posts/webinar-series/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Webinar Details
+
+  Time: 5-6 p.m. ET
+  Date: Feb. 28, 2024
+
+
+Click here to register for the first AI-CARES webinar on Building a Strong and Diverse Data Science Community, hosted by Dr. Alison Lin.
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -160,41 +205,6 @@ Kevin-Chen-Headshot_100px_2728437.pngIn the second segment of the episode, the D
 Our team member Dr. Cheryl Brown attended the National Academies event, The Use of Race and Ethnicity in Biomedical Research - Meeting 3, a meeting focused on race and disparities from different disciplines.
 
 The event details and recording can be found here.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Dr. Zou Presented at a UTHealth AIM-AHEAD Conference</title>
-    <link href="https://aimaheadheart.github.io/posts/conference/" rel="alternate" type="text/html" title="Dr. Zou Presented at a UTHealth AIM-AHEAD Conference" />
-    <published>2024-01-17T14:00:00-06:00</published>
-  
-    <updated>2024-01-17T14:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/conference/</id>
-    <content src="https://aimaheadheart.github.io/posts/conference/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Our team member Dr. Na Zou presented at a UTHealth AIM-AHEAD conference on fairness in AI/ML, including industry representatives from Amazon and clinical research areas.
 
     </summary>
   
