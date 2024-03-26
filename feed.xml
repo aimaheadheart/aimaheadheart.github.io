@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-02-15T11:59:50-06:00</updated>
+  <updated>2024-03-26T17:40:06-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,95 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming Health Equity Workshop</title>
+    <link href="https://aimaheadheart.github.io/posts/workshop/" rel="alternate" type="text/html" title="Upcoming Health Equity Workshop" />
+    <published>2024-03-26T11:00:00-05:00</published>
+  
+    <updated>2024-03-26T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/workshop/</id>
+    <content src="https://aimaheadheart.github.io/posts/workshop/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Webinar Details
+
+  Date: April 23, 2024
+  
+    
+      
+        
+          Venue: BioScience Research Collaborative (BRC) at Rice University
+          6500 Main Street, Houston, TX 77030
+        
+      
+    
+  
+
+
+Workshop Introduction
+Ensuring equitable health outcomes requires that the design, development, implementation, and dissemination of technology is culturally and contextually informed...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Dr. Brown Attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™)</title>
+    <link href="https://aimaheadheart.github.io/posts/event/" rel="alternate" type="text/html" title="Dr. Brown Attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™)" />
+    <published>2024-03-15T15:00:00-05:00</published>
+  
+    <updated>2024-03-15T15:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/event/</id>
+    <content src="https://aimaheadheart.github.io/posts/event/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Our team member Dr. Cheryl Brown attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™).
+
+The event details can be found here.
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -132,80 +221,6 @@ The CMS sent a memo clarifying that Medicare Advantage insurers are not allowed 
 The February episode of JHLT: The Podcast features a study that might be of interest to listeners treating heart failure patients or who are interested in managing diverse patient populations.
 
 Kevin-Chen-Headshot_100px_2728437.pngIn the second segment of the episode, the Digital Media Editors speak to first author Kevin Chen, MD, on the study “Heart transplantation in patients from socioecon...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Joint Retreat</title>
-    <link href="https://aimaheadheart.github.io/posts/joint-retreat/" rel="alternate" type="text/html" title="Joint Retreat" />
-    <published>2024-02-03T14:00:00-06:00</published>
-  
-    <updated>2024-02-03T14:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/joint-retreat/</id>
-    <content src="https://aimaheadheart.github.io/posts/joint-retreat/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Our team members Dr. Paul Potnuru and Dr. Yafen Liang attended a Joint Retreat on 2/3/2024. The Joint Retreat was held at UTHealth Houston, involving two departments: the McGovern Medical School’s Department of Anesthesiology, Critical Care, and Pain Medicine, and the McWilliams School of Biomedical Informatics (MSBMI).
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Dr. Brown Attended the National Academies Event</title>
-    <link href="https://aimaheadheart.github.io/posts/event/" rel="alternate" type="text/html" title="Dr. Brown Attended the National Academies Event" />
-    <published>2024-01-31T14:00:00-06:00</published>
-  
-    <updated>2024-01-31T14:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/event/</id>
-    <content src="https://aimaheadheart.github.io/posts/event/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Our team member Dr. Cheryl Brown attended the National Academies event, The Use of Race and Ethnicity in Biomedical Research - Meeting 3, a meeting focused on race and disparities from different disciplines.
-
-The event details and recording can be found here.
-
     </summary>
   
 
