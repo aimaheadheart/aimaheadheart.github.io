@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-03-26T17:48:59-05:00</updated>
+  <updated>2024-03-26T17:53:44-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Upcoming Health Equity Workshop</title>
-    <link href="https://aimaheadheart.github.io/posts/workshop/" rel="alternate" type="text/html" title="Upcoming Health Equity Workshop" />
+    <link href="https://aimaheadheart.github.io/posts/workshop04/" rel="alternate" type="text/html" title="Upcoming Health Equity Workshop" />
     <published>2024-03-26T11:00:00-05:00</published>
   
     <updated>2024-03-26T11:00:00-05:00</updated>
   
-    <id>https://aimaheadheart.github.io/posts/workshop/</id>
-    <content src="https://aimaheadheart.github.io/posts/workshop/" />
+    <id>https://aimaheadheart.github.io/posts/workshop04/</id>
+    <content src="https://aimaheadheart.github.io/posts/workshop04/" />
     <author>
       <name>heart</name>
     </author>
@@ -64,13 +64,13 @@ Ensuring equitable health outcomes requires that the design, development, implem
   
   <entry>
     <title>Dr. Brown Attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™)</title>
-    <link href="https://aimaheadheart.github.io/posts/event/" rel="alternate" type="text/html" title="Dr. Brown Attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™)" />
+    <link href="https://aimaheadheart.github.io/posts/event03/" rel="alternate" type="text/html" title="Dr. Brown Attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™)" />
     <published>2024-03-15T15:00:00-05:00</published>
   
     <updated>2024-03-15T15:00:00-05:00</updated>
   
-    <id>https://aimaheadheart.github.io/posts/event/</id>
-    <content src="https://aimaheadheart.github.io/posts/event/" />
+    <id>https://aimaheadheart.github.io/posts/event03/</id>
+    <content src="https://aimaheadheart.github.io/posts/event03/" />
     <author>
       <name>heart</name>
     </author>
