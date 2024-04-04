@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-04-02T14:54:59-05:00</updated>
+  <updated>2024-04-04T11:33:46-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,41 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming SCA Panel</title>
+    <link href="https://aimaheadheart.github.io/posts/SCA-panel/" rel="alternate" type="text/html" title="Upcoming SCA Panel" />
+    <published>2024-04-04T11:00:00-05:00</published>
+  
+    <updated>2024-04-04T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/SCA-panel/</id>
+    <content src="https://aimaheadheart.github.io/posts/SCA-panel/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Session Description
+Artificial Intelligence (AI) is revolutionizing the medical field, including perioperative cardiovascular medicine. Understanding the basics of AI, its advantages and pitfalls, and how to utilize the best technology to advance our clinical practice and research and ensure healthcare equity is paramount for SCA members. Our panel consists of experts in medical AI research and...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -172,51 +207,6 @@ Click here to get more information.
       Our team member Dr. Cheryl Brown attended the Duke Symposium on Fostering AI/ML Research for Health Equity and Learning Transformation (FAIR HEALTH™).
 
 The event details can be found here.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Upcoming AI-CARES Webinar Series</title>
-    <link href="https://aimaheadheart.github.io/posts/webinar-series/" rel="alternate" type="text/html" title="Upcoming AI-CARES Webinar Series" />
-    <published>2024-02-14T10:00:00-06:00</published>
-  
-    <updated>2024-02-14T10:00:00-06:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/webinar-series/</id>
-    <content src="https://aimaheadheart.github.io/posts/webinar-series/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Webinar Details
-
-  Time: 5-6 p.m. ET
-  Date: Feb. 28, 2024
-
-
-Click here to register for the first AI-CARES webinar on Building a Strong and Diverse Data Science Community, hosted by Dr. Alison Lin.
-
-
 
     </summary>
   
