@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-04-04T13:45:54-05:00</updated>
+  <updated>2024-04-04T14:00:04-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -55,6 +55,43 @@
   URL of announcement: https://tchd2024.dryfta.com/
   URL for participation guidelines: https://tchd2024.dryfta.com/attendee-registration-tickets
 
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Best Student Paper Award in AMIA 2024 Informatics Summit</title>
+    <link href="https://aimaheadheart.github.io/posts/bestpaper2404/" rel="alternate" type="text/html" title="Best Student Paper Award in AMIA 2024 Informatics Summit" />
+    <published>2024-04-04T11:00:00-05:00</published>
+  
+    <updated>2024-04-04T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/bestpaper2404/</id>
+    <content src="https://aimaheadheart.github.io/posts/bestpaper2404/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Our group received the Best Student Paper Award in AMIA 2024 Informatics Summit!
+
+Click here to get more information of the paper: FERI: A Multitask-based Fairness Achieving Algorithm with Applications to Fair Organ Transplantation.
 
     </summary>
   
@@ -175,45 +212,6 @@ Webinar Details
 
 Workshop Introduction
 Ensuring equitable health outcomes requires that the design, development, implementation, and dissemination of technology is culturally and contextually informed and guided by people’s lived experiences through community-engaged science. The pandemic exposed and,...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Dr. Hu Gave a Talk at Yale University</title>
-    <link href="https://aimaheadheart.github.io/posts/talk2403/" rel="alternate" type="text/html" title="Dr. Hu Gave a Talk at Yale University" />
-    <published>2024-03-21T11:00:00-05:00</published>
-  
-    <updated>2024-03-21T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/talk2403/</id>
-    <content src="https://aimaheadheart.github.io/posts/talk2403/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Our member Dr. Hu gave a talk at Yale University’s Biomedical Informatics &amp;amp; Data Science Monthly Seminar!
-
-Click here to get more information.
-
     </summary>
   
 
