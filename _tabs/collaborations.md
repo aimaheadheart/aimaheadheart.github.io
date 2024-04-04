@@ -3,7 +3,7 @@ layout: default
 title: Collaborations
 permalink: /collaborations/
 icon: fas fa-university
-order: 5
+order: 6
 ---
 
 ## Participating Institutions and Organizations:
