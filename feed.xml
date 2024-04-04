@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-04-04T14:00:04-05:00</updated>
+  <updated>2024-04-04T15:58:35-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Recent Conferences, Workshops, and Symposia on Health Disparities and Health Equity</title>
+    <link href="https://aimaheadheart.github.io/posts/conference-sharing/" rel="alternate" type="text/html" title="Recent Conferences, Workshops, and Symposia on Health Disparities and Health Equity" />
+    <published>2024-04-04T13:00:00-05:00</published>
+  
+    <updated>2024-04-04T13:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/conference-sharing/</id>
+    <content src="https://aimaheadheart.github.io/posts/conference-sharing/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      We are glad to share recent conferences, workshops, and symposia on health disparities and health equity with you!
+
+NPC-QIC Health Equity Project Webinar - Asynchronous
+
+  Location - Webinar / Asynchronous
+  Affiliation - National Pediatric Cardiology Quality Improvement Collaborative (NPC-QIC)
+  Name of event - Health Equity Project Webinar
+  Date - Wednesday, January 17, 2024 5:00 PM  6:00 PM...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -169,49 +210,6 @@ Dr. Deborah Guadalupe Duran, Senior Advisor, Data Science, Analytics, and System
 
 Click here for more information
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Upcoming Health Equity Workshop</title>
-    <link href="https://aimaheadheart.github.io/posts/workshop04/" rel="alternate" type="text/html" title="Upcoming Health Equity Workshop" />
-    <published>2024-03-26T11:00:00-05:00</published>
-  
-    <updated>2024-03-26T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/workshop04/</id>
-    <content src="https://aimaheadheart.github.io/posts/workshop04/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Webinar Details
-
-  Date: April 23, 2024
-  Venue: BioScience Research Collaborative (BRC) at Rice University
-
-
-Workshop Introduction
-Ensuring equitable health outcomes requires that the design, development, implementation, and dissemination of technology is culturally and contextually informed and guided by people’s lived experiences through community-engaged science. The pandemic exposed and,...
     </summary>
   
 
