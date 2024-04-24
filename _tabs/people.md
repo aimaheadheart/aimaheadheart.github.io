@@ -47,7 +47,7 @@ order: 1
 ## Student(s):
 
 <div class="row">
-  {% for person in site.data.people.students %}
+  {% for person in site.data.people.research_assistants %}
     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
       <div class="card h-100">
         <img src="{{ person.image }}.jpeg" class="card-img-top img-fluid" alt="{{ person.name }}">
