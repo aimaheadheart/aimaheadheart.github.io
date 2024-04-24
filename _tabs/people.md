@@ -44,7 +44,7 @@ order: 1
   {% endfor %}
 </div>
 
-## Student(s):
+## Research Assistants:
 
 <div class="row">
   {% for person in site.data.people.research_assistants %}
