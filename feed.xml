@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-04-24T15:15:19-05:00</updated>
+  <updated>2024-05-03T11:19:33-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Atrium Health Surgery Research Symposium at JCSU</title>
+    <link href="https://aimaheadheart.github.io/posts/symposium2405/" rel="alternate" type="text/html" title="Atrium Health Surgery Research Symposium at JCSU" />
+    <published>2024-05-02T11:00:00-05:00</published>
+  
+    <updated>2024-05-02T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/symposium2405/</id>
+    <content src="https://aimaheadheart.github.io/posts/symposium2405/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Johnson C. Smith University hosted the Atrium Health Surgery Research Symposium. Atrium invited over 50 members of their department and had a day filled with talks, meet and greet, professional development for our students, poster sessions. Our member Dr. Felesia Stukes’ students had the opportunity to participate in the symposium.
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -179,41 +216,6 @@ NPC-QIC Health Equity Project Webinar - Asynchronous
 
 Click here to get more information of the paper: FERI: A Multitask-based Fairness Achieving Algorithm with Applications to Fair Organ Transplantation.
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Upcoming SCA Panel</title>
-    <link href="https://aimaheadheart.github.io/posts/SCA-panel/" rel="alternate" type="text/html" title="Upcoming SCA Panel" />
-    <published>2024-04-04T11:00:00-05:00</published>
-  
-    <updated>2024-04-04T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/SCA-panel/</id>
-    <content src="https://aimaheadheart.github.io/posts/SCA-panel/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Session Description
-Artificial Intelligence (AI) is revolutionizing the medical field, including perioperative cardiovascular medicine. Understanding the basics of AI, its advantages and pitfalls, and how to utilize the best technology to advance our clinical practice and research and ensure healthcare equity is paramount for SCA members. Our panel consists of experts in medical AI research and...
     </summary>
   
 
