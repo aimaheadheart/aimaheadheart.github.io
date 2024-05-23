@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-05-23T10:08:31-05:00</updated>
+  <updated>2024-05-23T10:13:48-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,81 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming International Conference on Machine Learning (ICML)</title>
+    <link href="https://aimaheadheart.github.io/posts/upcomingconference2407/" rel="alternate" type="text/html" title="Upcoming International Conference on Machine Learning (ICML)" />
+    <published>2024-05-22T11:00:00-05:00</published>
+  
+    <updated>2024-05-22T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/upcomingconference2407/</id>
+    <content src="https://aimaheadheart.github.io/posts/upcomingconference2407/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The Forty-first International Conference on Machine Learning (ICML) will be held from Sun. Jul 21st through Sat the 27th, 2024 at the Messe Wien Exhibition Congress Center.
+
+Conference Information
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Upcoming ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)</title>
+    <link href="https://aimaheadheart.github.io/posts/upcomingconference2406/" rel="alternate" type="text/html" title="Upcoming ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)" />
+    <published>2024-05-22T11:00:00-05:00</published>
+  
+    <updated>2024-05-22T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/upcomingconference2406/</id>
+    <content src="https://aimaheadheart.github.io/posts/upcomingconference2406/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      2024 ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) will be held in Rio de Janeiro, Brazil, from Monday, June 3rd through Thursday, June 6th, 2024.
+
+It is a computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness, accountability, and transparency in socio-technical systems.
+
+Conference Inform...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -131,90 +206,6 @@ Ensuring equitable health outcomes requires that the design, development, implem
       Our member Dr. Felesia Stukes attended and presented at the 2024 HBCU Data Science Consortium Celebration which was held April 19 – 20, 2024 in Alexandria, VA. One undergraduate student had a poster accepted on the topic, Responsible AI: Artificial Intelligence &amp;amp; Health Disparities.
 
 More details
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Recent Conferences, Workshops, and Symposia on Health Disparities and Health Equity</title>
-    <link href="https://aimaheadheart.github.io/posts/conference-sharing/" rel="alternate" type="text/html" title="Recent Conferences, Workshops, and Symposia on Health Disparities and Health Equity" />
-    <published>2024-04-04T13:00:00-05:00</published>
-  
-    <updated>2024-04-04T13:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/conference-sharing/</id>
-    <content src="https://aimaheadheart.github.io/posts/conference-sharing/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      We are glad to share recent conferences, workshops, and symposia on health disparities and health equity with you!
-
-NPC-QIC Health Equity Project Webinar - Asynchronous
-
-  Location - Webinar / Asynchronous
-  Affiliation - National Pediatric Cardiology Quality Improvement Collaborative (NPC-QIC)
-  Name of event - Health Equity Project Webinar
-  Date - Wednesday, January 17, 2024 5:00 PM  6:00 PM...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Upcoming 19th Annual Texas Conference on Health Disparities</title>
-    <link href="https://aimaheadheart.github.io/posts/upcoming-conference2406/" rel="alternate" type="text/html" title="Upcoming 19th Annual Texas Conference on Health Disparities" />
-    <published>2024-04-04T11:00:00-05:00</published>
-  
-    <updated>2024-04-04T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/upcoming-conference2406/</id>
-    <content src="https://aimaheadheart.github.io/posts/upcoming-conference2406/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Conference Information
-
-  Location: Fort Worth, Texas
-  Affiliation: The University of North Texas Health Science Center at Fort Worth
-  Name of event: 19th Annual Texas Conference on Health Disparities
-  Date - June 6 - 7 2024
-  URL of announcement: https://tchd2024.dryfta.com/
-  URL for participation guidelines: https://tchd2024.dryfta.com/attendee-registration-tickets
-
 
     </summary>
   
