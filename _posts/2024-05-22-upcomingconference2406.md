@@ -1,7 +1,7 @@
 ---
 title: Upcoming ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)
 author: heart
-date: 2024-05-23 10:00:00 -0600
+date: 2024-05-22 10:00:00 -0600
 categories: [Activity]
 tags: [news]
 pin: true
