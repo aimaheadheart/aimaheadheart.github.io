@@ -18,4 +18,4 @@ We cordially invite you to participate in a community-driven forum focused on â€
 + Time: 11 AM to 2 PM
 + Location: Tompkins Hall Ballroom, Tuskegee University, Tuskegee, AL 36088
 
-[RSVP by May](https://forms.office.com/r/BnhZTmYagv)
+[RSVP by May 31](https://forms.office.com/r/BnhZTmYagv)
