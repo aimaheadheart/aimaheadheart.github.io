@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-05-23T10:13:48-05:00</updated>
+  <updated>2024-05-30T11:10:08-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,42 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming Luncheon Forum</title>
+    <link href="https://aimaheadheart.github.io/posts/upcomingforum2406/" rel="alternate" type="text/html" title="Upcoming Luncheon Forum" />
+    <published>2024-05-29T11:00:00-05:00</published>
+  
+    <updated>2024-05-29T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/upcomingforum2406/</id>
+    <content src="https://aimaheadheart.github.io/posts/upcomingforum2406/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+We cordially invite you to participate in a community-driven forum focused on “Community Voices: The Impact of AI on Health Equity in Underserved Communities: Potentials, Concerns, and Challenges.”  A Luncheon Forum hosted by the TU DICB AIM AHEAD project to convene local government officials, healthcare practitioners, community influencers, health advocates, and academic representatives to e...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -170,43 +206,6 @@ Webinar Details
 
 Workshop Introduction
 Ensuring equitable health outcomes requires that the design, development, implementation, and dissemination of technology is culturally and contextually informed...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Dr. Stukes Attended and Presented at the 2024 HBCU Data Science Consortium Celebration</title>
-    <link href="https://aimaheadheart.github.io/posts/HBCU2404/" rel="alternate" type="text/html" title="Dr. Stukes Attended and Presented at the 2024 HBCU Data Science Consortium Celebration" />
-    <published>2024-04-20T11:00:00-05:00</published>
-  
-    <updated>2024-04-20T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/HBCU2404/</id>
-    <content src="https://aimaheadheart.github.io/posts/HBCU2404/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Our member Dr. Felesia Stukes attended and presented at the 2024 HBCU Data Science Consortium Celebration which was held April 19 – 20, 2024 in Alexandria, VA. One undergraduate student had a poster accepted on the topic, Responsible AI: Artificial Intelligence &amp;amp; Health Disparities.
-
-More details
-
     </summary>
   
 
