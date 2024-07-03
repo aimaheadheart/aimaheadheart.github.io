@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-06-20T19:52:54-05:00</updated>
+  <updated>2024-07-03T13:23:31-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Best Student Paper Award in ICQSR24</title>
+    <link href="https://aimaheadheart.github.io/posts/bestpaper2407/" rel="alternate" type="text/html" title="Best Student Paper Award in ICQSR24" />
+    <published>2024-07-02T11:00:00-05:00</published>
+  
+    <updated>2024-07-02T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/bestpaper2407/</id>
+    <content src="https://aimaheadheart.github.io/posts/bestpaper2407/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Our group received the Best Student Paper Award in 2nd INFORMS Conference on Quality, Statistics, and Reliability!
+
+Click here to get more information of the paper: CODA: Temporal Domain Generalization via Concept Drift Simulator.
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -161,51 +198,6 @@ Conference Inform...
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Health Equity Workshop Presentations</title>
-    <link href="https://aimaheadheart.github.io/posts/workshop0423/" rel="alternate" type="text/html" title="Health Equity Workshop Presentations" />
-    <published>2024-04-23T11:00:00-05:00</published>
-  
-    <updated>2024-04-23T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/workshop0423/</id>
-    <content src="https://aimaheadheart.github.io/posts/workshop0423/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Our members Dr. Hu and Dr. Zou both presented at the Health Equity Workshop held at Rice University!
-
-Webinar Details
-
-  Date: April 23, 2024
-  Venue: BioScience Research Collaborative (BRC) at Rice University
-
-
-Workshop Introduction
-Ensuring equitable health outcomes requires that the design, development, implementation, and dissemination of technology is culturally and contextually informed...
     </summary>
   
 
