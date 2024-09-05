@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-07-03T13:23:31-05:00</updated>
+  <updated>2024-09-05T13:25:52-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming 2024 AI In Health Conference</title>
+    <link href="https://aimaheadheart.github.io/posts/upcomingconference2409/" rel="alternate" type="text/html" title="Upcoming 2024 AI In Health Conference" />
+    <published>2024-09-05T11:00:00-05:00</published>
+  
+    <updated>2024-09-05T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/upcomingconference2409/</id>
+    <content src="https://aimaheadheart.github.io/posts/upcomingconference2409/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+The Ken Kennedy Institute at Rice University will host the 3rd annual AI in Health Conference on September 9-12, 2024. Dr. Xia Hu, one of our members, will serve as the conference chair, while Dr. Xiaoqian Jiang has been invited to deliver a presentation. Additionally, our member Dr. Cheryl Brown will also attend the conference.
+
+The conference includes panels, technical talks, an exhibit hal...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -161,43 +199,6 @@ Conference Information
 It is a computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness, accountability, and transparency in socio-technical systems.
 
 Conference Inform...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Atrium Health Surgery Research Symposium at JCSU</title>
-    <link href="https://aimaheadheart.github.io/posts/symposium2405/" rel="alternate" type="text/html" title="Atrium Health Surgery Research Symposium at JCSU" />
-    <published>2024-05-02T11:00:00-05:00</published>
-  
-    <updated>2024-05-02T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/symposium2405/</id>
-    <content src="https://aimaheadheart.github.io/posts/symposium2405/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Johnson C. Smith University hosted the Atrium Health Surgery Research Symposium. Atrium invited over 50 members of their department and had a day filled with talks, meet and greet, professional development for our students, poster sessions. Our member Dr. Felesia Stukes’ students had the opportunity to participate in the symposium.
-
-
-
     </summary>
   
 
