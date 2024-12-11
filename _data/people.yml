@@ -50,11 +50,11 @@ key_personnel:
 
 
 research_assistants:
-  - name: Sirui Ding
-    image: /assets/img/people/SD
-    title: Ph.D.
-    institution: Texas A & M University
-    url: https://www.linkedin.com/in/sirui-ding-2aa88a161/
+  - name: Shaojie Wang
+    image: /assets/img/people/SW
+    title: Ph.D. Student
+    institution: University of Houston
+    url: https://www.linkedin.com/in/shaojie-wang-740a07328/
   - name: Songyuan Sui
     image: /assets/img/people/SS
     title: Ph.D. Student
@@ -76,3 +76,9 @@ research_assistants:
     institution: University of North Carolina at Charlotte
     url: https://www.linkedin.com/in/taniyah-pruitt-83540821a/
 
+alumni:
+  - name: Dr. Sirui Ding
+    image: /assets/img/people/SD
+    title: Postdoctoral Researcher
+    institution: University of California, San Francisco
+    url: https://www.linkedin.com/in/sirui-ding-2aa88a161/
