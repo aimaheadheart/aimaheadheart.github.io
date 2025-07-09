@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-![announcement](/assets/img/activities/aisummit2502.jpeg)
+![announcement](/assets/img/activities/aisummit2502.png)
 
 The TMC AI Summit will kicks off soon, with AI leaders from TMC institutions sharing insights on the state of our AI community. It features a scientific program with keynotes, research spotlights, and a student research showcase, a testament to the vibrant future of AI in medicine. Beyond the presentation, we’re fostering discussions on integration challenges in healthcare AI, including regulatory and ethical considerations, system safety, educational strategies, and clinical deployment.
 
