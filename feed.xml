@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2025-07-09T11:34:05-05:00</updated>
+  <updated>2025-07-09T12:15:45-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>2025 Symposium on Artificial Intelligence for Learning Health Systems (SAIL)</title>
-    <link href="https://aimaheadheart.github.io/posts/upcomingsymposium2505/" rel="alternate" type="text/html" title="2025 Symposium on Artificial Intelligence for Learning Health Systems (SAIL)" />
+    <link href="https://aimaheadheart.github.io/posts/symposium2505/" rel="alternate" type="text/html" title="2025 Symposium on Artificial Intelligence for Learning Health Systems (SAIL)" />
     <published>2025-05-10T11:00:00-05:00</published>
   
     <updated>2025-05-10T11:00:00-05:00</updated>
   
-    <id>https://aimaheadheart.github.io/posts/upcomingsymposium2505/</id>
-    <content src="https://aimaheadheart.github.io/posts/upcomingsymposium2505/" />
+    <id>https://aimaheadheart.github.io/posts/symposium2505/</id>
+    <content src="https://aimaheadheart.github.io/posts/symposium2505/" />
     <author>
       <name>heart</name>
     </author>
@@ -62,13 +62,13 @@ Event Details:
   
   <entry>
     <title>Together for Better Health - A Summit with Friendship Baptist Church</title>
-    <link href="https://aimaheadheart.github.io/posts/upcominghealthsummit2503/" rel="alternate" type="text/html" title="Together for Better Health - A Summit with Friendship Baptist Church" />
-    <published>2025-03-09T11:00:00-05:00</published>
+    <link href="https://aimaheadheart.github.io/posts/healthsummit2503/" rel="alternate" type="text/html" title="Together for Better Health - A Summit with Friendship Baptist Church" />
+    <published>2025-03-30T11:00:00-05:00</published>
   
-    <updated>2025-03-09T11:00:00-05:00</updated>
+    <updated>2025-03-30T11:00:00-05:00</updated>
   
-    <id>https://aimaheadheart.github.io/posts/upcominghealthsummit2503/</id>
-    <content src="https://aimaheadheart.github.io/posts/upcominghealthsummit2503/" />
+    <id>https://aimaheadheart.github.io/posts/healthsummit2503/</id>
+    <content src="https://aimaheadheart.github.io/posts/healthsummit2503/" />
     <author>
       <name>heart</name>
     </author>
@@ -89,11 +89,11 @@ Event Details:
 
       
 
-Join the Health Summit for a unique opportunity to learn, share, and engage with leaders in A.I. and healthcare — in partnership with the community!
+A Health Summit for a unique opportunity to learn, share, and engage with leaders in A.I. and healthcare — in partnership with the community!
 
-Hosted at Friendship Missionary Baptist Church and welcoming over 200 participants, this summit is designed not just for scholars, but for everyone.
+Hosted at Friendship Missionary Baptist Church and welcoming over 200 participants, this summit was designed not just for scholars, but for everyone.
 
-Unlike academic conferences, this event is grounded in community partnership and outreach. Sess...
+Unlike academic conferences, this event was grounded in community partnership and outreach. Sessions ...
     </summary>
   
 
@@ -101,14 +101,14 @@ Unlike academic conferences, this event is grounded in community partnership and
 
   
   <entry>
-    <title>Upcoming 2025 Texas Medical Center AI Summit</title>
-    <link href="https://aimaheadheart.github.io/posts/upcomingsummit2502/" rel="alternate" type="text/html" title="Upcoming 2025 Texas Medical Center AI Summit" />
-    <published>2025-02-01T10:00:00-06:00</published>
+    <title>2025 Texas Medical Center AI Summit</title>
+    <link href="https://aimaheadheart.github.io/posts/summit2502/" rel="alternate" type="text/html" title="2025 Texas Medical Center AI Summit" />
+    <published>2025-02-22T10:00:00-06:00</published>
   
-    <updated>2025-02-01T10:00:00-06:00</updated>
+    <updated>2025-02-22T10:00:00-06:00</updated>
   
-    <id>https://aimaheadheart.github.io/posts/upcomingsummit2502/</id>
-    <content src="https://aimaheadheart.github.io/posts/upcomingsummit2502/" />
+    <id>https://aimaheadheart.github.io/posts/summit2502/</id>
+    <content src="https://aimaheadheart.github.io/posts/summit2502/" />
     <author>
       <name>heart</name>
     </author>
@@ -129,7 +129,7 @@ Unlike academic conferences, this event is grounded in community partnership and
 
       
 
-The TMC AI Summit will kicks off soon, with AI leaders from TMC institutions sharing insights on the state of our AI community. It features a scientific program with keynotes, research spotlights, and a student research showcase, a testament to the vibrant future of AI in medicine. Beyond the presentation, we’re fostering discussions on integration challenges in healthcare AI, including regul...
+The TMC AI Summit was held with AI leaders from TMC institutions sharing insights on the state of our AI community. It features a scientific program with keynotes, research spotlights, and a student research showcase, a testament to the vibrant future of AI in medicine. Beyond the presentation, we fostered discussions on integration challenges in healthcare AI, including regulatory and ethica...
     </summary>
   
 
