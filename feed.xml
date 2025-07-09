@@ -4,7 +4,7 @@
   <id>https://aimaheadheart.github.io/</id>
   <title>HEART</title>
   <subtitle>Heart Equity and Access - Responsible Tranplantation.</subtitle>
-  <updated>2024-12-11T13:14:52-06:00</updated>
+  <updated>2025-07-09T09:26:26-05:00</updated>
   <author>
     <name>aimaheadheart</name>
     <uri>https://aimaheadheart.github.io/</uri>
@@ -12,11 +12,58 @@
   <link rel="self" type="application/atom+xml" href="https://aimaheadheart.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://aimaheadheart.github.io/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 aimaheadheart </rights>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 aimaheadheart </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Upcoming Community Health Summit</title>
+    <link href="https://aimaheadheart.github.io/posts/upcominghealthsummit2503/" rel="alternate" type="text/html" title="Upcoming Community Health Summit" />
+    <published>2025-03-09T11:00:00-05:00</published>
+  
+    <updated>2025-03-09T11:00:00-05:00</updated>
+  
+    <id>https://aimaheadheart.github.io/posts/upcominghealthsummit2503/</id>
+    <content src="https://aimaheadheart.github.io/posts/upcominghealthsummit2503/" />
+    <author>
+      <name>heart</name>
+    </author>
+
+  
+    
+    <category term="Activity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Join the Health Summit to learn, discuss, and connect with experts in A.I. and Healthcare!
+
+
+  Sessions on generative AI, health accessibility, heart failure, AI governance.
+  Poster session &amp;amp; focus group dialogues informed the outreach strategy.
+
+
+Event Details:
+
+  Date: March 29, 2025
+  Time: 10:00am - 2:00pm (Lunch Provided)
+  Location: Friendship Missionary Baptist Church Conf. Center...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -164,43 +211,6 @@ Click here to get more information of the paper: CODA: Temporal Domain Generaliz
       
 
 We cordially invite you to participate in a community-driven forum focused on “Community Voices: The Impact of AI on Health Equity in Underserved Communities: Potentials, Concerns, and Challenges.”  A Luncheon Forum hosted by the TU DICB AIM AHEAD project to convene local government officials, healthcare practitioners, community influencers, health advocates, and academic representatives to e...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Upcoming International Conference on Machine Learning (ICML)</title>
-    <link href="https://aimaheadheart.github.io/posts/upcomingconference2407/" rel="alternate" type="text/html" title="Upcoming International Conference on Machine Learning (ICML)" />
-    <published>2024-05-22T11:00:00-05:00</published>
-  
-    <updated>2024-05-22T11:00:00-05:00</updated>
-  
-    <id>https://aimaheadheart.github.io/posts/upcomingconference2407/</id>
-    <content src="https://aimaheadheart.github.io/posts/upcomingconference2407/" />
-    <author>
-      <name>heart</name>
-    </author>
-
-  
-    
-    <category term="Activity" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      The Forty-first International Conference on Machine Learning (ICML) will be held from Sun. Jul 21st through Sat the 27th, 2024 at the Messe Wien Exhibition Congress Center.
-
-Conference Information
-
     </summary>
   
 
